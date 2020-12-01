@@ -1,4 +1,6 @@
-# Web Scraping Homework - Mission to Mars by Kinnari Patel
+# Web Scraping Homework - 
+
+"Mission to Mars" by Kinnari Patel
 
 
 In this assignment, I build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines what you need to do.
@@ -6,7 +8,7 @@ In this assignment, I build a web application that scrapes various websites for 
 
 ## Step 1 - Scraping (mission_to_mars.ipynb)
 
-Has the following in (mars dictionary)
+Has the following
 
 ### NASA Mars News
 
@@ -26,6 +28,4 @@ Has the following in (mars dictionary)
 
 
 * Used Bootstrap to structure your HTML template.
-
-Done on time
 
